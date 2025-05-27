@@ -1,11 +1,5 @@
 # Microcontroller_Microprocessor
-Note: in this section, I will perfom you my projects of this course 
+These section will demonstrate LABS from this course
 ## Course Information
 **Instructor**: DoanDuy_ThanTheTung
-
-**Student**: Nguyen Hoang Quoc Cuong
-## Overview 
-
-These project can visualize the core things to build up your fundamental skills and improve the uses of function (especially clean code)
-----
 *LAB from UIT-VNU*
